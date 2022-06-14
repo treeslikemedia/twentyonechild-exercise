@@ -1,4 +1,13 @@
 {
     "name": "treeslikmedia/twentyonechild-exercise",
-    "type": "library"
+    "type": "package",
+    "description": "Twenty Twenty-One is designed with flexibility at its core.",
+    "keywords": [
+        "WordPress",
+        "Themes"
+    ],
+    "homepage": "https://github.com/treeslikemedia/twentyonechild-exercise",
+    "require": {
+        "php": ">=5.6"
+    }
 }
